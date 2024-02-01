@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/will-you-be-my-valentine/static/css/main.19f1c4d3.css",
+    "main.js": "/will-you-be-my-valentine/static/js/main.4b0c1d69.js",
+    "static/media/yes.gif": "/will-you-be-my-valentine/static/media/yes.2033b974d7b36b5722d1.gif",
+    "static/media/Will-You-Be-My-Valentine.jpg": "/will-you-be-my-valentine/static/media/Will-You-Be-My-Valentine.346a5bf803f458fe1cc6.jpg",
+    "static/media/no.jpeg": "/will-you-be-my-valentine/static/media/no.3d3d3be5ee0918c4a80f.jpeg",
+    "index.html": "/will-you-be-my-valentine/index.html",
+    "main.19f1c4d3.css.map": "/will-you-be-my-valentine/static/css/main.19f1c4d3.css.map",
+    "main.4b0c1d69.js.map": "/will-you-be-my-valentine/static/js/main.4b0c1d69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19f1c4d3.css",
+    "static/js/main.4b0c1d69.js"
+  ]
+}
