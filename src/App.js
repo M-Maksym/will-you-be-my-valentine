@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import default_img from './Will-You-Be-My-Valentine.jpg';
-import Incorrect from './no.jpg';
+import Incorrect from './no.jpeg';
 import correct from './yes.gif';
 
 function App() {
